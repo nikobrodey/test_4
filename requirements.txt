@@ -36,7 +36,7 @@ entrypoints==0.4
 et-xmlfile==1.1.0
 exceptiongroup==1.1.0
 fastjsonschema==2.16.3
-feedparser==5.2.1
+feedparser==6.0.11
 filelock==3.12.2
 Fiona==1.9.4
 Flask==2.2.2
@@ -174,6 +174,7 @@ scipy==1.7.3
 seaborn==0.12.2
 selenium==4.8.2
 Send2Trash==1.8.0
+sgmllib3k==1.0.0
 shapely==2.0.1
 six==1.16.0
 smmap==5.0.1
